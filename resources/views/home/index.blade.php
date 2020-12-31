@@ -1,0 +1,5 @@
+@include('home.app')
+@include('home.whyMe')
+@include('home.skills')
+@include('home.testimoni')
+@include('footer')
